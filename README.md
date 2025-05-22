@@ -149,7 +149,7 @@ Sistem machine learning dalam proyek ini dikembangkan sebagai prototype untuk me
 streamlit run main.py
 ```
 
-Aplikasi streamlit akan berjalan di browser pada alamat https://student-performance-dashboard.streamlit.app/
+Aplikasi streamlit akan berjalan di browser pada alamat https://student-performance-prototype.streamlit.app/
 
 ## Conclusion
 
